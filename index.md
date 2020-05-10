@@ -1,0 +1,3 @@
+# Welcome to Juba's Github Page !
+
+Some basic notes about Pandas [here](pandas_notes.html) ...
